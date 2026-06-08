@@ -1,2 +1,2 @@
 # next-skins
-color mode and theming webapp manager
+## Runtime skin manager for React + Tailwind v4. Coming soon.
