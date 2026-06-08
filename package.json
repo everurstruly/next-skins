@@ -1,12 +1,12 @@
 {
-  "name": "next-skins",
   "version": "0.0.2",
-  "description": "A simple skinning solution for Next.js applications",
+  "name": "next-skins",
+  "description": "Runtime skin manager for React + Tailwind v4. The skin system next-themes never shipped.",
+  "keywords": ["react", "tailwind", "shadcn", "themes", "skins", "next-themes", "color-mode", "dark-mode"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "Oghenetefa Okotete",
   "repository": {
     "type": "git",
